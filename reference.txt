@@ -1,0 +1,57 @@
+<a target="_blank" class="md-list-addon-element" href="/student/evaluation/form/055ea834-4517-4ee1-bfa1-84a8172616bd/1e72d4ea-6bc1-42c3-81fd-3a62851e8349">
+                                                                                <i class="md-list-addon-icon material-icons md-color-grey-50" data-uk-tooltip="{pos:'top'}" title="Open Survey">
+                                                                                </i>
+                                                                            </a> 
+
+                                                                            <li data-uk-tooltip="{pos:'top'}" title="Title: Teacher Evaluation Form -1 (Fall-23) - MATH-232-Fall23-EME/BMtsE/2022F-B-lecture-Samreen Sheriff">
+                                                                            <a target="_blank" class="md-list-addon-element" href="/student/evaluation/form/055ea834-4517-4ee1-bfa1-84a8172616bd/1e72d4ea-6bc1-42c3-81fd-3a62851e8349">
+                                                                                <i class="md-list-addon-icon material-icons md-color-grey-50" data-uk-tooltip="{pos:'top'}" title="Open Survey">
+                                                                                </i>
+                                                                            </a>
+                                                                            
+                                                                            <div class="md-list-content">
+                                                                              <span class="md-list-heading">Teacher Evaluation Form -1 (Fall-23) - MATH-232-Fall23-EME/BMtsE/2022F-B-lecture-Samreen Sheriff</span>
+                                                                              <span class="uk-text-small ">Course
+                                                                                </span>
+                                                                            </div>
+                                                                        </li>
+
+
+                                                                        #####
+
+
+                                                                        <div style="padding-left: 15px;" class="uk-row-first">
+                                                                    <ul class="md-bg-deep-purple-A200 md-color-grey-50 md-list md-list-addon md-list-right classCards">
+                                                                        <li data-uk-tooltip="{pos:'top'}" title="Title: Teacher Evaluation Form -1 (Fall-23) - MATH-232-Fall23-EME/BMtsE/2022F-B-lecture-Samreen Sheriff">
+                                                                            <a target="_blank" class="md-list-addon-element" href="/student/evaluation/form/055ea834-4517-4ee1-bfa1-84a8172616bd/1e72d4ea-6bc1-42c3-81fd-3a62851e8349">
+                                                                                <i class="md-list-addon-icon material-icons md-color-grey-50" data-uk-tooltip="{pos:'top'}" title="Open Survey">
+                                                                                </i>
+                                                                            </a>
+                                                                            
+                                                                            <div class="md-list-content">
+                                                                              <span class="md-list-heading">Teacher Evaluation Form -1 (Fall-23) - MATH-232-Fall23-EME/BMtsE/2022F-B-lecture-Samreen Sheriff</span>
+                                                                              <span class="uk-text-small ">Course
+                                                                                </span>
+                                                                            </div>
+                                                                        </li>
+                                                                        <li>
+                                                                            <div class="md-list-content">
+                                                                                <span class="md-list-heading">2023-11-19 18:59:01</span>
+                                                                                <span class="uk-text-small">Deadline
+                                                                                </span>
+
+                                                                            </div>
+                                                                        </li>
+                                                                        <li>
+                                                                            <div class="md-list-content">
+                                                                                
+                                                                                
+                                                                                <span class="md-list-heading">
+                                                                                    Not Submitted
+                                                                                </span>
+                                                                                <span class="uk-text-small">status
+                                                                                </span>
+                                                                            </div>
+                                                                        </li>
+                                                                    </ul>
+                                                                </div>
