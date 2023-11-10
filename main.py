@@ -16,9 +16,9 @@ title = driver.title
 driver.implicitly_wait(3)  
 
 text_box = driver.find_element(by=By.NAME, value="login")
-text_box.send_keys("mbassam.mts42ceme") # Enter your login id
+text_box.send_keys("") # Enter your login id
 text_box = driver.find_element(by=By.NAME, value="password")
-text_box.send_keys("BK@nust#123") # Enter your password
+text_box.send_keys("") # Enter your password
 login_button = driver.find_element(By.CSS_SELECTOR, "button.btn.btn-nust.btn-block.py-3.mt-4")  # Adjust the CSS selector to match the HTML attribute of the login button 
 login_button.click()
 print(driver.current_url) 
