@@ -24,29 +24,11 @@ login_button.click()
 print(driver.current_url) 
 
 wait = WebDriverWait(driver, 10)
-#driver.find_element(By.PARTIAL_LINK_TEXT, "student/evaluation/form").click()
-tab = wait.until(EC.element_to_be_clickable((By.XPATH, '//a[contains(@href, "/student/evaluation/form")][2]')))
-tab.click()
-new_window = driver.window_handles[1]
-driver.switch_to.window(new_window)
+# Click on the first form link
+second_form_link = driver.execute_script('return document.querySelectorAll(\'a[href*="/student/evaluation/form"]\')[2];')
 
+# Click on the second form link
+second_form_link.click()
+driver.switch_to.window(driver.window_handles[1])
 
-
-num_questions = 8
-for question_num in range(0, num_questions + 1):
-    radio_input_name = f"134133_616922_439638{3 + question_num}"
-
-    # Use JavaScript to click on the "Good" option directly
-    script = f'''
-        var radio = document.querySelector('input[name="{radio_input_name}"][value="4396380"]');
-        if (radio) {{
-            radio.click();
-            console.log("Question {question_num}, Option 3 (Good) selected.");
-        }} else {{
-            console.error("Error selecting Question {question_num}, Option 3 (Good): Radio input not found.");
-        }}
-    '''
-    driver.execute_script(script)
-
-    # Pause for a moment to allow the change to be visually observed
-    time.sleep(1)
+input("enter to exit")
